@@ -1,0 +1,6 @@
+﻿modality,label,classifier,n_classes,n_features,n_train,n_test,accuracy,macro_f1,weighted_f1,mae
+glu,Glucose,svc,8,27,1176,504,0.996032,0.996047,0.996047,0.002976
+mg,Magnesium,knn,7,27,784,336,0.997024,0.997023,0.997023,0.008929
+cl,Chloride,svc,9,27,1323,567,0.996473,0.996486,0.996486,0.255732
+ph,pH,svc,11,27,1617,693,0.998557,0.998557,0.998557,0.002165
+ur,Urea,svc,10,27,1470,630,0.995238,0.995274,0.995274,0.063492
